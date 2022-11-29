@@ -1,0 +1,104 @@
+.navi {
+    overflow: hidden;
+    background-color:pink;
+}
+
+.navi {
+    
+    width: 1860px;
+    overflow: auto;
+}
+
+.navi ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    line-height: 60px;
+}
+
+.navi li {
+    margin-left: 200px;
+    float: left;
+    padding: 30px;
+}
+.navi ul li a {
+    
+    text-decoration: none;
+    width: 130px;
+    display:contents;
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+    font-family: cursive;
+    letter-spacing: 5px;  
+}
+
+.article {
+    margin-top: 25px;
+    overflow: hidden;
+    background-color: rgb(204, 90, 109);
+    text-align: center;
+    width: 1140px;
+    padding: 360px;
+    letter-spacing: 5px; 
+    font-size: 30px;
+    color: white;
+}
+
+.aside1 {
+    
+    margin-top: 25px;
+    overflow:auto;
+    background-color: brown;
+    text-align: center;
+    width: 230px;
+    padding: 180px;
+    letter-spacing: 5;
+    font-size: 30px;
+    color: white;
+    margin-left: 1270px;
+    height: 350px;
+}
+
+.aside2 {
+    
+    margin-top: -710px;
+    overflow: hidden;
+    background-color: brown;
+    text-align: center;
+    width: 230px;
+    padding: 180px;
+    letter-spacing: 5;
+    font-size: 30px;
+    color: white;
+    margin-left: 635px;
+    height: 350px;
+}
+
+.aside3 {
+    
+    margin-top: -710px;
+    overflow: hidden;
+    background-color: brown;
+    text-align: center;
+    width: 230px;
+    padding: 180px;
+    letter-spacing: 5;
+    font-size: 30px;
+    color: white;
+    margin-left: 0px;
+    height: 350px;
+}
+
+.footer {
+    margin-top: 25px;
+    bottom:0;
+    left:0;
+    width:1460px;
+    background-color: #ff0000;
+    padding: 200px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+    
+  }
